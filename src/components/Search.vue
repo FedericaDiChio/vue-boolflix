@@ -7,7 +7,11 @@
 
 <script>
 export default {
-    name: "Search"
+    name: "Search",
+    data(){},
+    methods:{
+    },
+    created:{},
 }
 </script>
 
